@@ -2,6 +2,6 @@
 	"name": "twolock",
 	"version": "1.0.0",
 	"dependencies": {
-		"chalk": "^2.0.0"
+		"chalk": "2.3.0"
 	}
 }
